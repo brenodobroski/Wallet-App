@@ -10,9 +10,9 @@ https://brenodobroski.github.io/Wallet-App/
 
 ## Technologies used
 
--Javacript
--HTML
--CSS
+- Javacript
+- HTML
+- CSS
 
 ## Instruction to run locally
 
