@@ -8,7 +8,7 @@ This is an finances management dashboard made with Javascript, HTML and CSS. The
 
 https://brenodobroski.github.io/Wallet-App/
 
-## Technologies usedÇ
+## Technologies used
 
 -Javacript
 -HTML
