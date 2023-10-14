@@ -8,7 +8,7 @@ This is an finances management dashboard made with Javascript, HTML and CSS. The
 
 ## Live Link
 
-https://brenodobroski.github.io/Wallet-App/
+https://wallet-app-peach.vercel.app/
 
 ## Technologies used
 
